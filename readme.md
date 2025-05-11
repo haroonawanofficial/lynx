@@ -27,7 +27,7 @@ An **AI-powered, ultra-dynamic, polymorphic XSS fuzzing engine** built for moder
   - GET, POST, PATH, GraphQL injection
   - Full HTML form parsing and fuzzing (including file upload vectors)
 
-- 🌐 **Proxy, Cookie, Auth Header Support**
+-  **Proxy, Cookie, Auth Header Support**
   - Supports rotating proxies, custom auth headers, and manual session cookies
 
 -  **Colorized Logging**
