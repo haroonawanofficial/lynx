@@ -1,6 +1,6 @@
 #  Lynx
 
-An **AI-powered, ultra-dynamic, polymorphic XSS fuzzing engine** built for modern web applications, SPAs, and enterprise-grade environments. Designed for **red teams**, **bug bounty hunters**, and **security researchers**, this tool performs **intelligent, multi-layered XSS injection and analysis** using novel techniques such as WebTransport injection, WASM fuzzing, GraphQL reflection, CSP-aware payload crafting, and AI-based mutation engines.
+An **AI-powered, fuzzing engine** built for modern web applications, SPAs, and enterprise-grade environments. Designed for **red teams**, **bug bounty hunters**, and **security researchers**, this tool performs **intelligent, multi-layered XSS injection and analysis** using novel techniques such as WebTransport injection, WASM fuzzing, GraphQL reflection, CSP-aware payload crafting, and AI-based mutation engines.
 
 ---
 
