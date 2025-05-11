@@ -11,7 +11,7 @@ An **AI-powered, fuzzing engine** built for modern web applications, SPAs, and e
   - Supports BFS depth control
 
 -  **AI-Based Payload Mutation**
-  - Uses `CodeBERT` to mutate XSS vectors intelligently (optional GPU)
+  - Uses `AI` to mutate XSS vectors intelligently (optional GPU)
 
 -  **Polymorphic Obfuscation Engine**
   - Randomizes case, injects JS comments, zero-width chars, Unicode escapes, inline `setTimeout`, and more
